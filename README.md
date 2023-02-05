@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Azad Ahmad
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning, NLP, and Deep Learning projects
-- 💞️ I’m looking to collaborate on more projectsin the above mentioned fields
+- 💞️ I’m looking to collaborate on more projects in the above mentioned fields
 - 📫 you can reach me at atifahmad70@gmail.com
 
 <!---
